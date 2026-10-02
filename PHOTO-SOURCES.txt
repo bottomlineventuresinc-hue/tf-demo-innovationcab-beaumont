@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-076-innovationcab Innovation Cabinetry Installs (Wave 16 2026-10-02 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 16 files: see builds/_assets_dl/wave16/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave16/cab-upper-level.jpg : Upper cabinet being set on boards and checked with a level; no person in frame (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Kitchen_renovation_9a_installing_cabinet_to_hold_microwave_using_level_and_boards.JPG)
+services-trade.jpg <- wave16/cab-upper-box.jpg : Upper cabinet box mounted, doors off, during the work (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Kitchen_renovation_9a_cabinet_above_microwave_plus_triangles_to_reinforce_lower_shelf.JPG)
+people-crew.jpg <- wave16/cab-kitchen-wood.jpg : Kitchen with wood cabinets, uppers and lowers (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/76697976@N00/55134924282)
+people-marek.jpg <- wave16/cab-drawers-new.jpg : New white base cabinets and drawers (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Kitchen_cabinets_drawers_installed.jpg)
+people-tom.jpg <- wave16/cab-closet-tall.jpg : Tall closet cabinet with shelves and hanging space (rawpixel CC0 1.0 https://www.rawpixel.com/image/3301377/free-photo-image-closet-door-cabinet-cc0)
+coverage-house.jpg <- wave12/house-arched-tile.jpg : Cream stucco home with arches and a clay tile roof (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Arcaded_cream_house_with_clay-tile_roof_in_Juan_Griego,_Margarita_Island,_Venezuela.jpg)
+cab-kitchen-dated.jpg <- wave16/cab-kitchen-dated.jpg : Dated, empty kitchen with old cabinets, before new work (flickr CC0 1.0 https://www.flickr.com/photos/71401718@N00/5490155810)
+cab-kitchen-island.jpg <- wave16/cab-kitchen-island.jpg : Kitchen with new pale cabinets, a hood and an island (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/96511847@N04/9199988283)
+cab-base-old.jpg <- wave16/cab-base-old.jpg : Old base cabinets with the doors open, before new work (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/76697976@N00/55135814681)
+cab-vanity-white.jpg <- wave16/cab-vanity-white.jpg : White bathroom vanity with drawers (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Bathroom_vanity_cabinet_including_sink_and_drawers.jpg)
+cab-room-empty.jpg <- wave16/cab-room-empty.jpg : Empty living space with bare walls, before new cabinets (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Empty_apartment_in_Berlin_with_fitted_kitchen_and_chair_2.jpg)
+cab-media-wall.jpg <- wave16/cab-media-wall.jpg : White wall unit in a living room (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=155313130)
+
+Note: New trade (cabinets): wave16 set, no person in any photo; kitchens, bathroom vanities, media areas and closets, and cabinets going in. Services come from the business-written text in the packet, without the brand names it mentions (no brand appears on the page or in a photo). No time-in-business claim (the packet flags a conflict) and no unnamed credential claim. Service area: Beaumont and Palm Springs only, from the packet-cited installer directory; the regions on that source are not listed as towns. CEO call: no personal name anywhere, only the business wordmark and 'the owner'. The same-name domain in the packet belongs to an unrelated manufacturer and is never mentioned or linked, and no domain appears on the page; the unverified social handle is NOT linked.
